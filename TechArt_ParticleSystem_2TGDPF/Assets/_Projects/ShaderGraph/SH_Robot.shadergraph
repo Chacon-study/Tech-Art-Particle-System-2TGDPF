@@ -751,7 +751,7 @@
     "m_ObjectId": "0cef1260759649139f6d9d1ebbe13c4a",
     "m_Title": "Normal Map",
     "m_Position": {
-        "x": -562.9999389648438,
+        "x": -563.0,
         "y": -657.0
     }
 }
@@ -1086,8 +1086,8 @@
     "m_ObjectId": "23b444a3ecb24fadb3710f5180bb0798",
     "m_Title": "Emission",
     "m_Position": {
-        "x": -881.9999389648438,
-        "y": 778.9999389648438
+        "x": -882.0,
+        "y": 779.0
     }
 }
 
@@ -1618,8 +1618,8 @@
     "m_ObjectId": "497fdd2f6f354c2f8c59b1b2e2f4d015",
     "m_Title": "Base Color",
     "m_Position": {
-        "x": -568.0000610351563,
-        "y": -1267.9998779296875
+        "x": -568.0,
+        "y": -1268.0
     }
 }
 
@@ -2622,7 +2622,7 @@
     "m_ObjectId": "8a7fde8a78334a23be93a12ee8267047",
     "m_Title": "Ambient Occlusion",
     "m_Position": {
-        "x": -98.0000228881836,
+        "x": -98.0,
         "y": 270.0
     }
 }
@@ -3262,7 +3262,7 @@
     "m_ObjectId": "c8ac9eb9cc1c4b0c8b4a945d75ceafb7",
     "m_Title": "Specular",
     "m_Position": {
-        "x": -934.9999389648438,
+        "x": -935.0,
         "y": -1.0
     }
 }
